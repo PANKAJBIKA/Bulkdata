@@ -9,11 +9,10 @@
   **Tools:** Postman, Git
 
 ##  Features:
-     **Bulk Insert** - Multiple records ek sath insert karna
-     **Bulk Fetch** - Database se sabhi records fetch karna
-     **Spring Boot Best Practices** follow kiya gaya hai
+     **Bulk Insert** - To insert multiple Records
+     **Bulk Fetch** -   To Fetch Records
      **Unit Testing** included (JUnit + Mockito)
-     **Swagger Documentation** for easy API testing
+     **Swagger Documentation**  API testing
 
 ##   How to Run:
   **Clone repository:**
